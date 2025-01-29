@@ -18,4 +18,4 @@ you can:
 Run the file: main.py
 
 
-Code is write with js, pyhon using flask.
+Code is written in JavaScript and Python using Flask.
